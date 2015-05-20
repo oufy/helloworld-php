@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>Test PHP</title>
+  <title>Test v2 PHP</title>
  </head>
  <body>
- <?php echo '<p>Bonjour le monde</p>'; ?>
+ <?php echo '<p>Bonjour toooooooooo le monde</p>'; ?>
  <?php phpinfo(); ?>
  </body>
 </html>
